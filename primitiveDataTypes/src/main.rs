@@ -21,7 +21,7 @@ fn main() {
     // range:
     // i32 -2147483648 to 2147483647
     // i64 -9223372036854775808 to 9223372036854775807
-    let e: i32 = 2147483647;
+    // let e: i32 = 2147483647;
     let i: i64 = 9223372036854775807;
     println!("Maximum value of i32: {}", e);
     println!("Maximum value of i64: {}", i);
